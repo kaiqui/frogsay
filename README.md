@@ -1,1 +1,3 @@
-# frogsay
+# FrogSay
+
+### It's same CowSay
